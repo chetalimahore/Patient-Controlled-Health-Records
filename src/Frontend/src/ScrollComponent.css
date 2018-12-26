@@ -1,0 +1,7 @@
+.style-border
+{
+	overflowY: 'scroll';
+	height : 'auto';
+ 	border-top-style: dashed;
+ 	margin-top: 20px;
+}
